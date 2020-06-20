@@ -1,0 +1,17 @@
+div.centerItem {
+    width: '100%';
+    align-self: center;
+}
+button.BtnStandard {
+    width: auto;
+    border-radius: 20px;
+}
+
+button.BtnStandard:hover {
+    border-right: none;
+}
+
+button.BtnActive {
+    background-color: grey;
+    color: white;
+}

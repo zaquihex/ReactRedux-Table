@@ -1,0 +1,24 @@
+.App {
+    height: 100%;
+    div.applicationBody {
+        display: flex;
+        height: 85%;
+        div.applicationSection {
+            height: 100%;
+            width: 75%;
+            overflow-y: scroll;
+            padding: 0% 1% 0% 2%;
+        }
+    }
+    .fullWidth {
+        width: 100%
+    }
+    .fullHeight {
+        height: 100%
+    }
+}
+
+.standardText {
+    color: grey;
+    font-family: courier;
+}

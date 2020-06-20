@@ -1,0 +1,23 @@
+button.BtnPanel {
+    width: 100%;
+    background-color: unset;
+    border: none;
+    text-align: left;
+    transition: 1.5s;
+}
+
+button.BtnPanel:hover {
+    background-color: gainsboro;
+    cursor: auto;
+    border-right: 1px solid gainsboro;
+}
+
+button.BtnPanel:focus {
+    border-bottom: solid 1px gainsboro;
+    outline:0;
+}
+
+button.BtnPanelUnderline {
+    border-bottom: solid 1px gainsboro;
+    outline:0;
+}

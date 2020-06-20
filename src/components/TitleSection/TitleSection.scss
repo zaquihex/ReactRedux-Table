@@ -1,0 +1,10 @@
+div.TitleSection {
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid gainsboro;
+    div {
+        margin-left: 5px;
+        cursor: default;
+    }
+}

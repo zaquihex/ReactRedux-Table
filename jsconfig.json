@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es2016",
+      "jsx": "preserve",
+      "checkJs": true,
+      "baseUrl": "./src"
+    },
+    "exclude": ["node_modules", "**/node_modules/*"],
+    "exclude": ["src/containers", "**/containers/*"],
+    "exclude": ["src/store", "**/store/*"],
+    "exclude": ["src/assets", "**/assets/*"],
+    "exclude": ["src/output", "**/output/*"]
+  }

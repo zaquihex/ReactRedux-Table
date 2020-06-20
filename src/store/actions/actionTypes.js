@@ -1,0 +1,13 @@
+export const GET_DATA_INIT = 'GET_DATA_INIT';
+export const GET_DATA = 'GET_DATA'
+export const GET_DATA_START = 'GET_DATA_START';
+export const GET_DATA_SUCCESS = 'GET_DATA_SUCCESS';
+export const GET_DATA_FAIL = 'GET_DATA_FAIL';
+
+export const GET_MOVIE_START = 'GET_MOVIE_START';
+export const GET_MOVIE_SUCCESS = 'GET_MOVIE_SUCCESS';
+export const GET_MOVIE_FAIL = 'GET_MOVIE_FAIL';
+
+export const SET_DATATABLE_ERROR = 'SET_DATATABLE_ERROR';
+
+export const UPDATE_APP_STATE = 'UPDATE_APP_STATE';

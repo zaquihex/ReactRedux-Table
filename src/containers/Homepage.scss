@@ -1,0 +1,21 @@
+div.dynamic-subsection {
+  margin-bottom: 15px;
+  border-left: 1px solid gainsboro;
+  padding: 15px;
+  width: 100%;
+}
+div.dynamic-parent {
+  display: flex;
+  align-items: flex-end;
+  margin: 10px 0px 10px 0px;
+  width: 100%;
+
+  .middleElement {
+    margin: 0px 10px 0px 10px;
+  }
+}
+
+div.titleSubsection {
+  align-self: center;
+  margin-right: 10px;
+}
